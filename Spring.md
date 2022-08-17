@@ -77,7 +77,7 @@ Spring 框架运行占用的资源少，运行效率高。不依赖其他 jar。
 
 # Spring体系结构
 
-![image-20220507101440678](http://fgcy-pic.zhamao.ml/image-20220507101440678.png)
+![image-20220507101440678](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507101440678.png)
 
 ---
 
@@ -481,7 +481,7 @@ ApplicationContext 用于加载 Spring 的配置文件，在程序中充当“�
 
 ---
 
-![image-20220512144541991](http://fgcy-pic.zhamao.ml/image-20220512144541991.png)
+![image-20220512144541991](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512144541991.png)
 
 ---
 
@@ -511,7 +511,7 @@ Spring初始化对象时要使用无参的构造方法，切记保证类中有�
 
 ---
 
-![image-20220512144909950](http://fgcy-pic.zhamao.ml/image-20220512144909950.png)
+![image-20220512144909950](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512144909950.png)
 
 ---
 
@@ -553,7 +553,7 @@ public void testSpringStudent()throws Exception{
 
 ---
 
-![image-20220512150546711](http://fgcy-pic.zhamao.ml/image-20220512150546711.png)
+![image-20220512150546711](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512150546711.png)
 
 ---
 
@@ -613,7 +613,7 @@ Spring 使用“依赖注入”的方式来管理 Bean 之间的依赖关系
 
 ---
 
-![image-20220512145244167](http://fgcy-pic.zhamao.ml/image-20220512145244167.png)
+![image-20220512145244167](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512145244167.png)
 
 ---
 
@@ -623,7 +623,7 @@ Spring 使用“依赖注入”的方式来管理 Bean 之间的依赖关系
 
 ---
 
-![image-20220512145335174](http://fgcy-pic.zhamao.ml/image-20220512145335174.png)
+![image-20220512145335174](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512145335174.png)
 
 ---
 
@@ -635,7 +635,7 @@ Spring 使用“依赖注入”的方式来管理 Bean 之间的依赖关系
 
 ---
 
-![image-20220512145421582](http://fgcy-pic.zhamao.ml/image-20220512145421582.png)
+![image-20220512145421582](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512145421582.png)
 
 ---
 
@@ -665,7 +665,7 @@ Spring 使用“依赖注入”的方式来管理 Bean 之间的依赖关系
 
 ---
 
-![](http://fgcy-pic.zhamao.ml/image-20220507195911833.png)
+![](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507195911833.png)
 
 ---
 
@@ -675,7 +675,7 @@ Spring 使用“依赖注入”的方式来管理 Bean 之间的依赖关系
 
 ---
 
-![image-20220507200348757](http://fgcy-pic.zhamao.ml/image-20220507200348757.png)
+![image-20220507200348757](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507200348757.png)
 
 ---
 
@@ -956,7 +956,7 @@ public class Student {
 
 ---
 
-![image-20220512150058304](http://fgcy-pic.zhamao.ml/image-20220512150058304.png)
+![image-20220512150058304](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512150058304.png)
 
 ---
 
@@ -1173,7 +1173,7 @@ properties>
 
 ---
 
-![image-20220507154404504](http://fgcy-pic.zhamao.ml/image-20220507154404504.png)
+![image-20220507154404504](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154404504.png)
 
 ---
 
@@ -1183,11 +1183,11 @@ properties>
 
 ---
 
-![image-20220507154439796](http://fgcy-pic.zhamao.ml/image-20220507154439796.png)
+![image-20220507154439796](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154439796.png)
 
 ---
 
-![image-20220507154503683](http://fgcy-pic.zhamao.ml/image-20220507154503683.png)
+![image-20220507154503683](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154503683.png)
 
 ---
 
@@ -1205,15 +1205,15 @@ properties>
 
 ---
 
-![image-20220507154637460](http://fgcy-pic.zhamao.ml/image-20220507154637460.png)
+![image-20220507154637460](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154637460.png)
 
 ---
 
-![image-20220507154651757](http://fgcy-pic.zhamao.ml/image-20220507154651757.png)
+![image-20220507154651757](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154651757.png)
 
 ---
 
-![image-20220507154733211](http://fgcy-pic.zhamao.ml/image-20220507154733211.png)
+![image-20220507154733211](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507154733211.png)
 
 ---
 
@@ -1347,7 +1347,7 @@ byType： 根据类型自动注入
 
 ---
 
-![image-20220512153040034](http://fgcy-pic.zhamao.ml/image-20220512153040034.png)
+![image-20220512153040034](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512153040034.png)
 
 ---
 
@@ -1363,7 +1363,7 @@ byType： 根据类型自动注入
 
 ---
 
-![image-20220512153104017](http://fgcy-pic.zhamao.ml/image-20220512153104017.png)
+![image-20220512153104017](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512153104017.png)
 
 ---
 
@@ -1383,7 +1383,7 @@ byType： 根据类型自动注入
 
 ---
 
-![image-20220512153134009](http://fgcy-pic.zhamao.ml/image-20220512153134009.png)
+![image-20220512153134009](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512153134009.png)
 
 ---
 
@@ -1409,7 +1409,7 @@ Spring 提供了对jdk 中@Resource 注解的支持。
 
 ---
 
-![image-20220512153602560](http://fgcy-pic.zhamao.ml/image-20220512153602560.png)
+![image-20220512153602560](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512153602560.png)
 
 ---
 
@@ -1419,7 +1419,7 @@ Spring 提供了对jdk 中@Resource 注解的支持。
 
 ---
 
-![image-20220512153710561](http://fgcy-pic.zhamao.ml/image-20220512153710561.png)
+![image-20220512153710561](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512153710561.png)
 
 ---
 
@@ -1562,7 +1562,7 @@ applicationContext_controller.xml      【视图层】
 
 ---
 
-![image-20220512155600613](http://fgcy-pic.zhamao.ml/image-20220512155600613.png)
+![image-20220512155600613](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512155600613.png)
 
 ---
 
@@ -1716,7 +1716,7 @@ public class Agent implements Service {
 
 ---
 
-![image-20220507211056504](http://fgcy-pic.zhamao.ml/image-20220507211056504.png)
+![image-20220507211056504](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220507211056504.png)
 
 ---
 
@@ -2127,7 +2127,7 @@ public  void test01(){
 
 ---
 
-![image-20220508102530745](http://fgcy-pic.zhamao.ml/image-20220508102530745.png)
+![image-20220508102530745](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508102530745.png)
 
 ---
 
@@ -2203,7 +2203,7 @@ Spring的AOP利用一种称为“横切”的技术，剖解开封装的对象�
 
 ---
 
-![image-20220508104555025](http://fgcy-pic.zhamao.ml/image-20220508104555025.png)
+![image-20220508104555025](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508104555025.png)
 
 ---
 
@@ -2241,7 +2241,7 @@ Spring的AOP利用一种称为“横切”的技术，剖解开封装的对象�
 
 ---
 
-![image-20220508141953931](http://fgcy-pic.zhamao.ml/image-20220508141953931.png)
+![image-20220508141953931](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508141953931.png)
 
 ---
 
@@ -2440,7 +2440,7 @@ public void test02(){
 
 ---
 
-![image-20220508141801419](http://fgcy-pic.zhamao.ml/image-20220508141801419.png)
+![image-20220508141801419](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508141801419.png)
 
 ---
 
@@ -2595,7 +2595,7 @@ public void test02(){
 
 ---
 
-![image-20220508150525607](http://fgcy-pic.zhamao.ml/image-20220508150525607.png)
+![image-20220508150525607](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508150525607.png)
 
 ### 环绕通知
 
@@ -2633,7 +2633,7 @@ public void test02(){
 
 ---
 
-![image-20220508151059018](http://fgcy-pic.zhamao.ml/image-20220508151059018.png)
+![image-20220508151059018](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508151059018.png)
 
 ---
 
@@ -2721,7 +2721,7 @@ public void test01(){
 
 ---
 
-![image-20220508152025454](http://fgcy-pic.zhamao.ml/image-20220508152025454.png)
+![image-20220508152025454](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508152025454.png)
 
 ---
 
@@ -2878,7 +2878,7 @@ public void test01(){
 
 ---
 
-![image-20220508153415333](http://fgcy-pic.zhamao.ml/image-20220508153415333.png)
+![image-20220508153415333](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508153415333.png)
 
 ---
 
@@ -2918,7 +2918,7 @@ public void test01(){
 
 ---
 
-![image-20220512191441810](http://fgcy-pic.zhamao.ml/image-20220512191441810.png)
+![image-20220512191441810](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220512191441810.png)
 
 ---
 
@@ -2974,7 +2974,7 @@ Spring 像插线板一样，mybatis 框架是插头，可以容易的组合到�
 
 ----
 
-![image-20220508224110080](http://fgcy-pic.zhamao.ml/image-20220508224110080.png)
+![image-20220508224110080](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508224110080.png)
 
 ---
 
@@ -3007,7 +3007,7 @@ Spring 像插线板一样，mybatis 框架是插头，可以容易的组合到�
 
 ---
 
-![image-20220508224231315](http://fgcy-pic.zhamao.ml/image-20220508224231315.png)
+![image-20220508224231315](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508224231315.png)
 
 ---
 
@@ -3019,7 +3019,7 @@ Spring 像插线板一样，mybatis 框架是插头，可以容易的组合到�
 
 ---
 
-![image-20220508224527951](http://fgcy-pic.zhamao.ml/image-20220508224527951.png)
+![image-20220508224527951](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508224527951.png)
 
 ---
 
@@ -3210,7 +3210,7 @@ Spring 像插线板一样，mybatis 框架是插头，可以容易的组合到�
 
 ---
 
-![image-20220508225812560](http://fgcy-pic.zhamao.ml/image-20220508225812560.png)
+![image-20220508225812560](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508225812560.png)
 
 ---
 
@@ -3220,11 +3220,11 @@ Spring 像插线板一样，mybatis 框架是插头，可以容易的组合到�
 
 ---
 
-![image-20220508225852944](http://fgcy-pic.zhamao.ml/image-20220508225852944.png)
+![image-20220508225852944](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508225852944.png)
 
 ---
 
-![image-20220508225920281](http://fgcy-pic.zhamao.ml/image-20220508225920281.png)
+![image-20220508225920281](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508225920281.png)
 
 ---
 
@@ -3319,7 +3319,7 @@ public class UsersServiceImpl implements UsersService {
 
 ---
 
-![image-20220512204019825](http://fgcy-pic.zhamao.ml/image-20220512204019825.png)
+![image-20220817194558798](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220817194558798.png)
 
 ---
 
@@ -3612,13 +3612,13 @@ jdbc.password=123
 
 ---
 
-![image-20220508202815034](http://fgcy-pic.zhamao.ml/image-20220508202815034.png)
+![image-20220508202815034](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508202815034.png)
 
 ---
 
 - 如果想要让注解式事务覆盖声明式事务 就多加一个order属性，值越大；越优先
 
-![image-20220508202837258](http://fgcy-pic.zhamao.ml/image-20220508202837258.png)
+![image-20220508202837258](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508202837258.png)
 
 
 
@@ -3740,7 +3740,7 @@ public class AccountsServiceImpl implements AccountsService {
 
 ---
 
-![image-20220508201355415](http://fgcy-pic.zhamao.ml/image-20220508201355415.png)
+![image-20220508201355415](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220508201355415.png)
 
 ---
 
@@ -3750,4 +3750,5 @@ public class AccountsServiceImpl implements AccountsService {
 
 # 总结
 
-![Spring](D:\learn\动力节点\spring[荣]\01_文档\Spring.png
+![Spring](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/Spring.png)
+
